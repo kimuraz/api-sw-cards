@@ -12,6 +12,7 @@ $ pip install -r requirements.txt
 ```shell
 $ ./manage.py makemigrations
 $ ./manage.py migrate
+$ ./manage.py loaddata cards.json
 ```
 
 ## Running server
